@@ -1,4 +1,4 @@
-##Installation
+# Installation
 
 Follow these steps to clone or download the project to your local environment:
 

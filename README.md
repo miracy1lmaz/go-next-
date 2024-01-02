@@ -22,6 +22,17 @@ npm install
 npm run dev
 ```
 
+4-Print / Test func
+
+
+
+```
+go run main.go
+```
+```
+go test
+```
+
 
 
 ## Running the Backend

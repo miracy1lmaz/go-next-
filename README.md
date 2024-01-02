@@ -1,4 +1,5 @@
-Installation
+##Installation
+
 Follow these steps to clone or download the project to your local environment:
 
 1-Clone the project from GitHub or download it as a ZIP file.
@@ -22,7 +23,7 @@ npm run dev
 
 
 
-Running the Backend
+## Running the Backend
 Follow these steps to start the backend service:
 
 

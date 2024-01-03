@@ -5,7 +5,7 @@ Follow these steps to clone or download the project to your local environment:
 1-Clone the project from GitHub or download it as a ZIP file.
 (terminal or bash)
 ```
-git clone [Project GitHub URL && SSL]
+git clone [Project GitHub URL && CLI]
 ```
 or
 Download and unzip the ZIP file.
